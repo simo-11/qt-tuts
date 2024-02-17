@@ -14,5 +14,18 @@ Create and edit qml files which define application UI including animations
 # Qt Creator
 Build and debug applications
 
+# qml 
+```
+PS C:\> $env:Path+=';c:\qt\6.6.2\msvc2019_64\bin'
+PS C:\> qml --help
+Usage: c:\qt\6.6.2\msvc2019_64\bin\qml.exe [options] [files...] [-- args...]
+
+Options:
+  -?, -h, --help                   Displays help on commandline options.
+  --help-all                       Displays help, including generic Qt options.
+  -v, --version                    Displays version information.
+..
+```
+
 # Using Qt libraries
 
