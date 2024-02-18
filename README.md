@@ -29,5 +29,7 @@ Options:
 
 # Using Qt libraries
 
+https://doc.qt.io/qt-6/cmake-manual.html
+
 ## qml-box2d
-fork https://github.com/qml-box2d/qml-box2d -> https://github.com/simo-11/qml-box2d and tune cmake configs
+fork https://github.com/qml-box2d/qml-box2d -> https://github.com/simo-11/qml-box2d and tune cmake configs (in progress)
