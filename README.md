@@ -33,4 +33,4 @@ https://doc.qt.io/qt-6/cmake-manual.html
 
 ## qml-box2d
 fork https://github.com/qml-box2d/qml-box2d -> https://github.com/simo-11/qml-box2d and tune cmake configs
-Notes at https://github.com/simo-11/qml-box2d/simo.md
+Notes at https://github.com/simo-11/qml-box2d/blob/master/simo.md
